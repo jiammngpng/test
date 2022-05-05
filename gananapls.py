@@ -1,1 +1,0 @@
-print("kapoy na ser")
